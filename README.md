@@ -9,10 +9,10 @@ parses the links from this new content into the repository and continues
 this process for all links in the repository until stopped or after a given
 number of links are fetched. 
 
-The program require only python 2.6.6 and beautyfull soap installed.
+The program require only python 2.6.6 and beautiful soap installed.
 
 Execute the file with arguements URL and count of URL you want to fetch.
 
-The Idea is to explore is the two python awesome liberary i.e beautifull soap and urllib2.
+The Idea is to explore is the two python awesome liberary i.e beautiful soap and urllib2.
 
 Please suggest the changes and imporvements at drvsinghal@gmail.com
